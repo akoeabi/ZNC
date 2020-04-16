@@ -1,0 +1,2 @@
+# ZNC
+Configurasi ZNC
